@@ -1,5 +1,5 @@
 # GTP Logger
-GTP logger, logging Create Session and PDP Requests
+GTP logger, loggs Create Session and PDP Requests
 
 iplist.txt - contains comma seaprated ipv4 addresses for the futher analisys
 
